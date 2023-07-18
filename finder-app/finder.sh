@@ -27,3 +27,4 @@ lineNum=$(grep -r "$searchstr" | wc -l)
 # print result
 echo "The number of files are $fileNum and the number of matching lines are $lineNum"
 
+# adding this comment line to recommit and see if the runner runs
